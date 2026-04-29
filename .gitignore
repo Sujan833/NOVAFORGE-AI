@@ -1,7 +1,21 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Node
 node_modules/
+
+# OS
 .DS_Store
+
+# Sensitive folders
+git_tokens/
